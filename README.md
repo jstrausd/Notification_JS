@@ -1,2 +1,14 @@
 # Notification_JS
-use sendPushNotification() in a JavaScript file to send Push Notifications to the client and an extra log() function is also integrated for a shorter version of console.log()
+
+integrate this JS file to simple send Push Notifications to the browser.
+An extra method is also added, the log() method. 
+
+```
+sendPushNotification(message, body);
+for sending the Notifications
+```
+
+```
+log(message)
+shorter version of console.log()
+```
